@@ -1,0 +1,31 @@
+/**
+*	Journey of the Prairie King
+*
+*	Anthony Narlock
+*	To-do List
+*
+*/
+
+	1. Implement Game Border, make game border change based off of level
+	2. Speed movement to slow down the default moving speed
+		- Add faces to King
+	3. Add "shot"
+		Shots can be shot with a time exception after when after another
+		All of the speed, amount, etc can be varied when powerups are in place
+	4. Add AI 
+		When "shot" they no longer appear and ".remove" so more can appear and                 computer does not place more and more taking hardware... etc..
+		+ More than the default AI, introducing a "2 HP" AI, "3 HP" AI, which take                 more shots to clear 
+	5. Implement LEVEL and LIVES system
+		- Changes physical level every level........
+		- Game ends when lives = 0
+	6. Music & Sounds
+	7. BOSS Level
+		- Implement different AI with like "15 HP"
+		- ? Whole different object class
+		- bosslevel = true (add while bosslevel = false to normal AI)
+	8. Add Powerups
+		- Allow powerups to modify and control movement speed, shot variables
+	
+
+	OPTIONAL: 
+		- Work on better movement system.....
