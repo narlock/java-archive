@@ -1,4 +1,4 @@
-# java-archive
+# Java Archive
 This archive contains all of the Java related work I have done for school or other small projects
 
 - [High School](https://github.com/narlock/java-archive/tree/main/High%20School): Work from programming in Java at my high school (2018-2019)
