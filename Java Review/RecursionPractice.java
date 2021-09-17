@@ -53,4 +53,25 @@ public class RecursionPractice() {
         
     }
 
+    /*
+    * bunnyEars2
+    * We have bunnies standing in a line, numbered 1, 2, ... The odd bunnies have the normal 2 ears.
+    * The even bunnies now have 3 ears, because they each have a raised foot. Recursively return the
+    * number of "ears" in the bunny line.
+    */
+
+    public int bunnyEars2(int bunnies) {
+        if (bunnies == 0) {
+          return 0;
+        }
+        else if(bunnies % 2 == 0) {
+          //even
+          return 3 + bunnyEars2(bunnies - 1);
+        }
+        else {
+          //odd
+          return 2 + bunnyEars2(bunnies - 1);
+        }
+      }
+
 }
