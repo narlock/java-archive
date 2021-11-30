@@ -622,7 +622,7 @@ public class PacManWithObjectClasses  implements ActionListener, KeyListener, Pr
         {
             fwriter = new FileWriter(hsfile);
             bwriter = new BufferedWriter(fwriter); 
-            name.substring(0,3);
+            //name.substring(0,3);
             bwriter.write(name);             
             bwriter.newLine();
             bwriter.write(""+newscore);   
