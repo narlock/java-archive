@@ -5,4 +5,4 @@ This archive contains all of the Java related work I have done for school or oth
 - [Object-Oriented Programming](https://github.com/narlock/java-archive/tree/main/Object-Oriented%20Programming): Work from my CSCI 1082 class (2019-2020)
 - [Data Structures and Algorithms](https://github.com/narlock/java-archive/tree/main/Data%20Structures%20and%20Algorithms): Work from my CSCI 2082 class (2020)
 - [Java Review](https://github.com/narlock/java-archive/tree/main/Java%20Review): My Own Personal Java Review Guide (2021)
-- [JavaFX](): Quick Sample files for using JavaFX
+- [JavaFX](https://github.com/narlock/java-archive/tree/main/JavaFX): Quick Sample files for using JavaFX
