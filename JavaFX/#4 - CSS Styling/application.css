@@ -1,0 +1,19 @@
+.root{
+    -fx-background-color:"black";
+}
+
+.label {
+    -fx-alignment: center;
+
+}
+
+#titleLabel{
+    -fx-font-size: 40;
+    -fx-font-family: "Tahoma";
+    -fx-text-fill:"white";
+}
+
+#sampleLabel{
+    -fx-font-size: 20;
+    -fx-text-fill:"red";
+}
