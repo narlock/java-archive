@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.Double?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Polygon?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.narlock.fxtest.HelloController">
+   <children>
+      <Polygon fill="DODGERBLUE" layoutX="291.0" layoutY="210.0" stroke="BLACK" strokeType="INSIDE">
+        <points>
+          <Double fx:value="-50.0" />
+          <Double fx:value="40.0" />
+          <Double fx:value="50.0" />
+          <Double fx:value="40.0" />
+          <Double fx:value="0.0" />
+          <Double fx:value="-60.0" />
+        </points>
+      </Polygon>
+      <Button layoutX="236.0" layoutY="298.0" mnemonicParsing="false" onAction="#switchToScene1" text="Switch to Scene 1" />
+      <Label layoutX="211.0" layoutY="87.0" text="You are currently viewing Scene 2" />
+   </children>
+</AnchorPane>
