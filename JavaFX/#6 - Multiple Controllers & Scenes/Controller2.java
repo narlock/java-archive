@@ -1,0 +1,22 @@
+package com.narlock.fxtest;
+
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Node;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
+import javafx.scene.control.Label;
+import javafx.scene.shape.Circle;
+import javafx.stage.Stage;
+import java.io.IOException;
+
+public class Controller2 {
+    @FXML
+    private Label nameLabel;
+
+    public void displayName(String name) {
+        nameLabel.setText("Hello, " + name);
+    }
+
+}
