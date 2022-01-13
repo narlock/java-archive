@@ -14,7 +14,7 @@ My take on quickly re-grasping Java concepts.
 
 > [#4 Classes I - Objects, Constructors, Attributes of Objects, Getters/Setters, Methods, Overloading](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Classes.java)
 
-> #5 Classes II - Inheritance, Polymorphism
+> [#5 Classes II - Inheritance, Polymorphism](https://github.com/narlock/java-archive/tree/main/Java%20Review/Learn%20Java%20Programming/Inheritance/src/Inheritance)
 
 > #6 File I/O and Exception Handling
 
