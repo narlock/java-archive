@@ -10,11 +10,11 @@ My take on quickly re-grasping Java concepts.
 
 > #2 Basics - Operators, Boolean Conditions
 
-> [#3 Basics - Console I/O]()
+> [#3 Basics - Console I/O](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/ConsoleIO.java)
 
 > #4 Basics - Arrays, Loops, 2D Arrays
 
-> [#5 Classes I - Objects, Constructors, Attributes of Objects, Getters/Setters, Overloading]()
+> [#5 Classes I - Objects, Constructors, Attributes of Objects, Getters/Setters, Overloading](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Classes.java)
 
 > #5 Classes II - Inheritance, Polymorphism, Abstraction
 
@@ -34,12 +34,12 @@ My take on quickly re-grasping Java concepts.
 
 <b>Practice Objects and Classes</b>
 
-> [Ordering Ice Cream]()
+> [Ordering Ice Cream](https://github.com/narlock/java-archive/tree/main/Java%20Review/Practice%20Materials/Practice%20Objects%20and%20Classes/IceCream/src)
 
 <b>Misc Practice</b>
 
-> [Arrays Practice]()
+> [Arrays Practice](https://github.com/narlock/java-archive/blob/main/Java%20Review/Practice%20Materials/Arrays.java)
 
-> [Recursion Practice]()
+> [Recursion Practice](https://github.com/narlock/java-archive/blob/main/Java%20Review/Practice%20Materials/RecursionPractice.java)
 
 
