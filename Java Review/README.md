@@ -16,7 +16,7 @@ My take on quickly re-grasping Java concepts.
 
 > [#5 Classes II - Inheritance, Polymorphism](https://github.com/narlock/java-archive/tree/main/Java%20Review/Learn%20Java%20Programming/Inheritance/src/Inheritance)
 
-> #6 File I/O and Exception Handling
+> [#6 File I/O and Exception Handling](https://github.com/narlock/java-archive/tree/main/Java%20Review/Learn%20Java%20Programming/FileIOTest)
 
 > [#7 Recursion, Lambda Expressions](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Recursion.java)
 
