@@ -7,7 +7,7 @@
  * simple list in which has a length, and many things can be done with these lists called arrays
  */
 
-public class Arrays {
+public class ArraysPractice {
 	public static void main(String[] args) {
 		//Ways to declare arrays in Java
 		int array1[];

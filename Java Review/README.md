@@ -6,13 +6,13 @@ My take on quickly re-grasping Java concepts.
 # <b>Contents</b>
 
 ### <b>Learning Java Programming</b>
-> [#1 Basics - Main, Variables, Data Types, Operators, Boolean Conditions](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Variables.java)
+> [#1 Main, Variables, Data Types, Operators, Boolean Conditions](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Variables.java)
 
-> [#3 Basics - Console I/O](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/ConsoleIO.java)
+> [#2 Console I/O](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/ConsoleIO.java)
 
-> #4 Basics - Arrays, Loops, 2D Arrays
+> [#3 Arrays, Loops, 2D Arrays](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Arrays.java)
 
-> [#5 Classes I - Objects, Constructors, Attributes of Objects, Getters/Setters, Overloading](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Classes.java)
+> [#4 Classes I - Objects, Constructors, Attributes of Objects, Getters/Setters, Overloading](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Classes.java)
 
 > #5 Classes II - Inheritance, Polymorphism, Abstraction
 
@@ -20,13 +20,13 @@ My take on quickly re-grasping Java concepts.
 
 > #7 Recursion, Lambda Expressions
 
-> #9 ArrayList, HashMap, TreeMap
+> #8 ArrayList, HashMap, TreeMap
 
-> #10 Swing I - Simple GUI Building
+> #9 Swing I - Simple GUI Building
 
-> #11 Interfaces and ActionListener
+> #10 Interfaces and ActionListener
 
-> #12 Swing II - Graphics & Animations
+> #11 Swing II - Graphics & Animations
 
 ## <b>Java Programming Examples</b>
 
@@ -36,7 +36,7 @@ My take on quickly re-grasping Java concepts.
 
 <b>Misc Practice</b>
 
-> [Arrays Practice](https://github.com/narlock/java-archive/blob/main/Java%20Review/Practice%20Materials/Arrays.java)
+> [Arrays Practice](https://github.com/narlock/java-archive/blob/main/Java%20Review/Practice%20Materials/ArraysPractice.java)
 
 > [Recursion Practice](https://github.com/narlock/java-archive/blob/main/Java%20Review/Practice%20Materials/RecursionPractice.java)
 
