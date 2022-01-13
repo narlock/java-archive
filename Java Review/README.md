@@ -20,7 +20,7 @@ My take on quickly re-grasping Java concepts.
 
 > [#7 Recursion, Lambda Expressions](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Recursion.java)
 
-> #8 ArrayList, HashMap, TreeMap
+> #8 Linked List, ArrayList, HashMap
 
 > #9 Swing I - Simple GUI Building
 
