@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="Practice Materials"/>
 	<classpathentry kind="src" path="Learn Java Programming"/>
+	<classpathentry kind="src" path="Users/antho/Documents/GitHub/java-archive/Java Review/Learn Java Programming/Inheritance"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
