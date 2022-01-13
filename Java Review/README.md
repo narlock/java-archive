@@ -6,9 +6,7 @@ My take on quickly re-grasping Java concepts.
 # <b>Contents</b>
 
 ### <b>Learning Java Programming</b>
-> #1 Basics - Variables, Data Types
-
-> #2 Basics - Operators, Boolean Conditions
+> [#1 Basics - Main, Variables, Data Types, Operators, Boolean Conditions](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Variables.java)
 
 > [#3 Basics - Console I/O](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/ConsoleIO.java)
 
