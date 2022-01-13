@@ -18,7 +18,7 @@ My take on quickly re-grasping Java concepts.
 
 > #6 File I/O and Exception Handling
 
-> #7 Recursion, Lambda Expressions
+> [#7 Recursion, Lambda Expressions](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Recursion.java)
 
 > #8 ArrayList, HashMap, TreeMap
 
