@@ -22,7 +22,7 @@ My take on quickly re-grasping Java concepts.
 
 > [#8 Linked List, ArrayList, HashMap](https://github.com/narlock/java-archive/blob/main/Java%20Review/Learn%20Java%20Programming/Lists.java)
 
-> [#9 Swing I - Simple GUI Building]()
+> [#9 Swing I - Simple GUI Building](https://github.com/narlock/java-archive/tree/main/Java%20Review/Learn%20Java%20Programming/Swing%20I/src)
 
 > #10 Swing II - Interfaces and ActionListener
 
